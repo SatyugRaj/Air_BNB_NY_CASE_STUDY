@@ -9,3 +9,4 @@ Tools used:
 4. Power BI
 
  SUBMISSION :- This folder has the files and methodology used for this case study.
+ Data_Cleaning :- Python notebook used for the Data wrangling and EDA
